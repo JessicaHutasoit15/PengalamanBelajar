@@ -1,9 +1,11 @@
 # PengalamanBelajar
-Repositori ini berisi pengalaman ku belajar dicoding
+## Repositori ini berisi pengalaman ku belajar dicoding
 
-21 Februari 2023
-Belajar Dasar Git dengan Github 
-- Belajar tentang Git dan cara menggunakannya
-- Belajar Tools pada Github 
+### Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
+**19 Februari 2023**
+- Belajar tentang bahasa HTML, CSS dan Javascript
+- Belajar bagaimana menjadi seorang pengembang software
 
-
+**20 Februari 2023**
+- Belajar tentang tools dan keyword pada bahasa HTML 
+- Belajar membuat halaman login menggunakan VSC
