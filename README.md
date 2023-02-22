@@ -15,3 +15,8 @@
 - Belajar **Git** dengan **Github**
 - Menjadi tahu **tools** dan cara menggunakannya
 - Belajar menggunakan Akun Github menjadi lebih **menarik**
+
+### Pengenalan ke Logika Pemrograman (Programming Logic 101)
+**22 Februari 2023**
+- Belajar mengenai **Gerbang Logika** 
+- Belajar tentang **Logika Pemrograman**
